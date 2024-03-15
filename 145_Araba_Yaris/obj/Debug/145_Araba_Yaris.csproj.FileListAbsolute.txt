@@ -1,0 +1,10 @@
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\bin\Debug\145_Araba_Yaris.exe.config
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\bin\Debug\145_Araba_Yaris.exe
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\bin\Debug\145_Araba_Yaris.pdb
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\obj\Debug\145_Araba_Yaris.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\obj\Debug\_145_Araba_Yaris.Form1.resources
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\obj\Debug\_145_Araba_Yaris.Properties.Resources.resources
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\obj\Debug\145_Araba_Yaris.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\obj\Debug\145_Araba_Yaris.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\obj\Debug\145_Araba_Yaris.exe
+C:\Users\samet\Desktop\ConsoleAppDersleri\145_Araba_Yaris\obj\Debug\145_Araba_Yaris.pdb
